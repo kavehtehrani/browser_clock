@@ -6,20 +6,21 @@
 #fullpage {
     background-color: #0A0A0A;
     color: #7DD2DC;
-    top: 0;
-    left: 0;
-    /*height: 100vh;*/
+    top: 0px;
+    left: 0px;
+    height: 100vh;
     width: 100%;
     position: fixed;
-    padding: 0;
-    margin: 0;
+    padding: 0px;
+    margin: 0px;
 }
 
 #clock {
     font-family: 'digitalClock', monospace, sans-serif;
     display: table;
     justify-content: center;
-    font-size: 38vw;
+    font-size: 48vw;
+    line-height: .75;
 }
 
 #ampm {

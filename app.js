@@ -49,4 +49,3 @@ document.querySelector("#bgcolor").addEventListener("input", function (event) {
 })
 
 clock();
-
